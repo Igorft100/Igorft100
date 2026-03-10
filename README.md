@@ -1,8 +1,7 @@
 # Olá, eu sou Igor Tavares 👋
 
 🎓 Mestre em Informática Aplicada  
-🎓 Especialização em Ensino da Matemática
-
+🎓 Especialização em Ensino da Matemática 
 📊 Licenciado em Matemática  
 💻 Desenvolvedor Front-End em formação  
 
