@@ -50,6 +50,10 @@ desenvolver soluções eficientes.
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Igorft100&color=blue)
+
+---
+
 [![Igor Stats](https://github-readme-stats.vercel.app/api?username=Igorft100)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
